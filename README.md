@@ -1,4 +1,4 @@
-# Nuxt 3 Cocktails Minimal Starter
+# Nuxt 3 Cocktails 🍹 Minimal Starter
 
 We recommend to look at the [documentation](https://v3.nuxtjs.org).
 
